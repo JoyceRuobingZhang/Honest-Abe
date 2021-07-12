@@ -9,7 +9,7 @@ export const Politician = () => {
         return `
             <section class="politician">
                 <header class="politician__name">
-                    <h1>${politician.firstName} ${politician.lastName}</h1>
+                    <h3>${politician.firstName} ${politician.lastName}</h3>
                 </header>
                 <div class="politician__info">
                     <div>Age: ${politician.age}</div>

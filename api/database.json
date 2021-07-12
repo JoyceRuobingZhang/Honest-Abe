@@ -7,5 +7,28 @@
         "phone": "+1 (941) 415-3565",
         "district": "Bethpage, Maine",
         "platform": "Laborum pariatur elit eiusmod voluptate. Anim sit eu magna reprehenderit do ea reprehenderit minim eu non aliquip laboris reprehenderit sint. In quis occaecat exercitation mollit sunt ut Lorem irure aute occaecat pariatur. Do in Lorem laborum anim. Sit ipsum ut tempor reprehenderit elit. Magna ut aute laboris esse irure id. Reprehenderit aliquip dolore cupidatat cillum sunt consectetur consequat dolore ullamco do voluptate sunt."
+    }],
+    "corporations": [{
+        "id": 1,
+        "name": "XLEEN",
+        "address": "962 Burnett Street, Tennessee, 1770"
+    }, {
+        "id": 1,
+        "name": "TALAE",
+        "address": "211 Happy Street, Tennessee, 1200"
+    }],
+    "PACs": [{
+        "id": 1,
+        "name": "QUOTEZART",
+        "address": "222 Ash Street, Faxon, Maine, 7441"
+    }],
+    "donations": [{
+        "id": 1,
+        "donor": "XLEEN",
+        "amount": "$2,103"
+    }, {
+        "id": 2,
+        "donor": "TALAE",
+        "amount": "$50,192"
     }]
 }
